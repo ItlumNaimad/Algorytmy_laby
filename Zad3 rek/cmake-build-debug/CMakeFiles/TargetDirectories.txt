@@ -1,0 +1,3 @@
+C:/Users/naima/CLionProjects/Zad3 rek/cmake-build-debug/CMakeFiles/Zad3_rek.dir
+C:/Users/naima/CLionProjects/Zad3 rek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/naima/CLionProjects/Zad3 rek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
